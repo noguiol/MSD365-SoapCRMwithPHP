@@ -10,6 +10,8 @@ include "CrmEntityReference.php";
 // place your credentials here and keep the contents to yourself
 include "connectionDetails.inc.php";
 
+$crmService = new MSCrmIFD();
+
 // place your credentials here
 $crmService->usr = $connectionUsername;
 $crmService->pwd = $connectionPassword;
