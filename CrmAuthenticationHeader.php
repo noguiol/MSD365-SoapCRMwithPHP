@@ -5,5 +5,4 @@ class CrmAuthenticationHeader
     public $Header;
     public $Expires;
 }
-
 ?>

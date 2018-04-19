@@ -433,4 +433,4 @@ substr ( $charid, 0, 8 ) . $hyphen . substr ( $charid, 8, 4 ) . $hyphen . substr
 		}
 	}
 }
-
+?>

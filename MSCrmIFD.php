@@ -57,7 +57,6 @@
     public function request($request, $action) {
         $headers = array(
             "POST /MSCrmServices/2007/MSCrmServices/2007/CrmService.asmx HTTP/1.1",
-            "Host: hobby.crm.hobby-caravan.de",
             'Connection: keep-alive',
             "SOAPAction: " . $action,
             "Content-type: text/xml;charset=utf-8",

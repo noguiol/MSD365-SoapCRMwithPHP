@@ -1,6 +1,4 @@
 <?php
-namespace NC\NcHobbyCrmservice\Lib\IFDConnect;
-
 class CrmEntityReference extends CrmType {
 	
 	public $entityName;

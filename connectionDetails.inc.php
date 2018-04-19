@@ -1,6 +1,5 @@
 <?PHP
-$connectionUrl = "https://[Your CRM server url]/";
-$connectionUsername = "[Your username]";
-$connectionPassword = "[Your Passowrd]";
-
+$connectionUrl = "https://[URL]/";
+$connectionUsername = "[USER]";
+$connectionPassword = "[PASSWORD]"; 
 ?>

@@ -29,10 +29,7 @@ $fetchXml = "
 </entity>
 </fetch>
 ";
-
 $result = $crmService->fetchRequest($fetchXml);
 
 echo $result;
-
-
 ?>
